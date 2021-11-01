@@ -20,7 +20,8 @@ namespace WebApi
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseStartup<Startup>();
+                    //webBuilder.UseStartup<Startup>();
+                    webBuilder.UseUrls("http://localhost:50519").UseStartup<Startup>();
                 });
     }
 }

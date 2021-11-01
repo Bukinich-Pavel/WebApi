@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TestTaskForJob\\WebApi\\WebApi\\WebApi.csproj": {}
+    "D:\\TestTask\\WebApi\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "D:\\TestTaskForJob\\WebApi\\WebApi\\WebApi.csproj": {
+    "D:\\TestTask\\WebApi\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TestTaskForJob\\WebApi\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "D:\\TestTask\\WebApi\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\TestTaskForJob\\WebApi\\WebApi\\WebApi.csproj",
+        "projectPath": "D:\\TestTask\\WebApi\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Ксения\\.nuget\\packages\\",
-        "outputPath": "D:\\TestTaskForJob\\WebApi\\WebApi\\obj\\",
+        "outputPath": "D:\\TestTask\\WebApi\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ксения\\AppData\\Roaming\\NuGet\\NuGet.Config",

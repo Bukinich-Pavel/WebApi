@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t668uIuDuJYbiP01vfN9Om1FRYrtjd8mVBxipTqQH1IZQ731d0RJuAn0KpgBdsyQ2ytM/jAAmP0TiZhlRsFCMg==",
+  "dgSpecHash": "CiNONBtGMq7781HKx9bX3Q69D6wULeFTs9ekWXoRB3KW+9Y5QjOPrjjHikjaU5ku3fX6aVOpEWvNFLhNI6nfUA==",
   "success": true,
-  "projectFilePath": "D:\\TestTaskForJob\\WebApi\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\TestTask\\WebApi\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ксения\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
